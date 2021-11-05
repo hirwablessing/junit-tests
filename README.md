@@ -1,13 +1,13 @@
 # junit-tests
-Introduction to testing with JUNIT in Springboot
+Introduction to testing with JUNIT in Springboot 🚀.
 
-The package containing or classes can be found in 
+The package containing or classes can be found in: 
 
 ````bash
 src/main/java/com/example/IntroToTesting/services
 ````
 
-The package containing all the tests is found in
+The package containing all the tests is found in: 
 
 
 ````bash
